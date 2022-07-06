@@ -38,6 +38,12 @@
           <nav-item icon="fas fa-home" link="/">
             Home
           </nav-item>
+          <nav-item icon="fas fa-newspaper" link="/hn/news">
+            News
+          </nav-item>
+          <nav-item icon="fas fa-list" link="/hn/ask">
+            Ask
+          </nav-item>
           <nav-item icon="fas fa-info-circle" link="/about">
             About
           </nav-item>
